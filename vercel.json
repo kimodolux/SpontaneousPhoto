@@ -1,0 +1,7 @@
+{
+    "name": "spontaneous-photo",
+    "version": 2,
+    "env": {
+      "MONGODB_URI": "@spontaneous-photo"
+    }
+  }
